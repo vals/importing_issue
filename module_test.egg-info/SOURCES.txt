@@ -1,0 +1,9 @@
+setup.py
+module/__init__.py
+module/uses_generated.py
+module_test.egg-info/PKG-INFO
+module_test.egg-info/SOURCES.txt
+module_test.egg-info/dependency_links.txt
+module_test.egg-info/namespace_packages.txt
+module_test.egg-info/top_level.txt
+scripts/importing_code.py
