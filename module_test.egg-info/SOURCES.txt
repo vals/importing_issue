@@ -1,6 +1,6 @@
 setup.py
-module/__init__.py
-module/uses_generated.py
+module_test/__init__.py
+module_test/uses_generated.py
 module_test.egg-info/PKG-INFO
 module_test.egg-info/SOURCES.txt
 module_test.egg-info/dependency_links.txt
